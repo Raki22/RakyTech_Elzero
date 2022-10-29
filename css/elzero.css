@@ -326,7 +326,7 @@ header nav ul li:hover:not(.o-l)::before {
 }
 
 .other-links .links li {
-  /* height: 20%; */
+  height: 20%;
   padding: var(--mainPadding);
   width: 100%;
   display: flex;
